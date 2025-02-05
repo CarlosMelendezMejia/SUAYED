@@ -1,0 +1,23 @@
+.header-up {
+    padding: 2rem;
+    background-color: #003D79;
+}
+
+.header-down {
+    padding: 2rem;
+    border-top: 0.4rem solid #D59F0F;
+}
+
+.nav-link {
+    color: #666666 !important;
+    font-size: 1.1rem !important;
+}
+
+.nav-link:hover {
+    color: #D59F0F !important;
+}
+
+.img-thumbnail {
+   background-color: transparent !important;
+   border: transparent !important;
+}
