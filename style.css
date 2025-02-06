@@ -6,6 +6,8 @@
 .header-down {
     padding: 2rem;
     border-top: 0.4rem solid #D59F0F;
+    border-bottom: 0.2rem solid #e2e2e2;
+
 }
 
 .nav-link {
@@ -20,4 +22,16 @@
 .img-thumbnail {
    background-color: transparent !important;
    border: transparent !important;
+}
+
+#carrusel {
+    padding: 2rem;
+}
+
+.carousel-item {
+    padding: 2rem;
+}
+
+.carousel-item img {
+    border-radius: 1rem;
 }
