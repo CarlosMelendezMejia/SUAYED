@@ -35,3 +35,20 @@
 .carousel-item img {
     border-radius: 1rem;
 }
+
+.SUAYED_desc {
+    padding: 3rem;
+    text-align: justify;
+}
+
+#img_1 {
+    padding: 2rem;
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.card-body {
+    background-color: #003D79;
+    border-radius: 0% 0% 0.5rem 0.5rem;
+    border-top: 0.4rem solid #D59F0F;
+}
