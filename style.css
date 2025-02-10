@@ -1,6 +1,7 @@
 .header-up {
     padding: 2rem;
     background-color: #003D79;
+    border-bottom: 0.4rem solid #D59F0F;
 }
 
 .header-down {
